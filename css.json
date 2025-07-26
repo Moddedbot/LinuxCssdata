@@ -1,0 +1,26 @@
+{
+  "theme": {
+    "light": {
+      "textLevel1": {
+        "html": "FULL_HTML_FOR_LIGHT_TEXT_LEVEL_1"
+      },
+      "textLevel2": {
+        "html": "FULL_HTML_FOR_LIGHT_TEXT_LEVEL_2"
+      },
+      "textLevel3": {
+        "html": "FULL_HTML_FOR_LIGHT_TEXT_LEVEL_3"
+      }
+    },
+    "dark": {
+      "textLevel1": {
+        "html": "FULL_HTML_FOR_DARK_TEXT_LEVEL_1"
+      },
+      "textLevel2": {
+        "html": "FULL_HTML_FOR_DARK_TEXT_LEVEL_2"
+      },
+      "textLevel3": {
+        "html": "FULL_HTML_FOR_DARK_TEXT_LEVEL_3"
+      }
+    }
+  }
+}
