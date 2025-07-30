@@ -1,5 +1,5 @@
-{
-  "ls-1": {
+[
+  {
     "Command": "ls",
     "Usage Example": "ls -l",
     "Short Description": "List files",
@@ -8,7 +8,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/linux-ls-command/"
   },
-  "cd-2": {
+  {
     "Command": "cd",
     "Usage Example": "cd /var/log",
     "Short Description": "Change directory",
@@ -17,7 +17,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/linux-cd-command/"
   },
-  "pwd-3": {
+  {
     "Command": "pwd",
     "Usage Example": "pwd",
     "Short Description": "Print working dir",
@@ -26,7 +26,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/pwd-command-in-linux/"
   },
-  "mkdir-4": {
+  {
     "Command": "mkdir",
     "Usage Example": "mkdir docs",
     "Short Description": "Make new directory",
@@ -35,7 +35,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/how-to-create-directories-in-linux-with-mkdir/"
   },
-  "rmdir-5": {
+  {
     "Command": "rmdir",
     "Usage Example": "rmdir docs",
     "Short Description": "Remove empty directory",
@@ -44,7 +44,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/linux-rmdir-command/"
   },
-  "rm-6": {
+  {
     "Command": "rm",
     "Usage Example": "rm file.txt",
     "Short Description": "Remove files/dirs",
@@ -53,7 +53,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/linux-rm-command/"
   },
-  "cp-7": {
+  {
     "Command": "cp",
     "Usage Example": "cp a.txt b.txt",
     "Short Description": "Copy files/dirs",
@@ -62,7 +62,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/linux-cp-command/"
   },
-  "mv-8": {
+  {
     "Command": "mv",
     "Usage Example": "mv a.txt b.txt",
     "Short Description": "Move/rename files",
@@ -71,7 +71,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/linux-mv-command/"
   },
-  "touch-9": {
+  {
     "Command": "touch",
     "Usage Example": "touch file.txt",
     "Short Description": "Create empty file",
@@ -80,7 +80,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/linux-touch-command/"
   },
-  "ln-10": {
+  {
     "Command": "ln",
     "Usage Example": "ln -s file linkname",
     "Short Description": "Create links",
@@ -89,7 +89,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/how-to-create-symbolic-links-in-linux-using-the-ln-command/"
   },
-  "cat-11": {
+  {
     "Command": "cat",
     "Usage Example": "cat file.txt",
     "Short Description": "View file contents",
@@ -98,7 +98,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/linux-cat-command/"
   },
-  "head-12": {
+  {
     "Command": "head",
     "Usage Example": "head file.txt",
     "Short Description": "View file start",
@@ -107,7 +107,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/head-command-in-linux/"
   },
-  "tail-13": {
+  {
     "Command": "tail",
     "Usage Example": "tail file.txt",
     "Short Description": "View file end",
@@ -116,7 +116,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/tail-command-in-linux/"
   },
-  "less-14": {
+  {
     "Command": "less",
     "Usage Example": "less file.txt",
     "Short Description": "Scroll file",
@@ -125,7 +125,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/less-command-in-linux/"
   },
-  "grep-15": {
+  {
     "Command": "grep",
     "Usage Example": "grep pattern file.txt",
     "Short Description": "Search text pattern",
@@ -134,7 +134,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/grep-command-in-linux/"
   },
-  "awk-16": {
+  {
     "Command": "awk",
     "Usage Example": "awk '{print $1}' file",
     "Short Description": "Pattern scan/process",
@@ -143,7 +143,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/awk-command-in-linux/"
   },
-  "sed-17": {
+  {
     "Command": "sed",
     "Usage Example": "sed 's/old/new/g' file",
     "Short Description": "Stream editor",
@@ -152,7 +152,7 @@
     "Level": "Pro",
     "Resource Link": "https://linuxize.com/post/sed-command-in-linux/"
   },
-  "sort-18": {
+  {
     "Command": "sort",
     "Usage Example": "sort file.txt",
     "Short Description": "Sort lines",
@@ -161,7 +161,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/sort-command-in-linux/"
   },
-  "uniq-19": {
+  {
     "Command": "uniq",
     "Usage Example": "uniq file.txt",
     "Short Description": "Remove duplicates",
@@ -170,7 +170,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/uniq-command-in-linux/"
   },
-  "wc-20": {
+  {
     "Command": "wc",
     "Usage Example": "wc -l file.txt",
     "Short Description": "Word/line/char count",
@@ -179,7 +179,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/wc-command-in-linux/"
   },
-  "diff-21": {
+  {
     "Command": "diff",
     "Usage Example": "diff file1 file2",
     "Short Description": "Compare files",
@@ -188,7 +188,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/diff-command-in-linux/"
   },
-  "cmp-22": {
+  {
     "Command": "cmp",
     "Usage Example": "cmp file1 file2",
     "Short Description": "Byte-wise compare",
@@ -197,7 +197,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://www.tecmint.com/linux-cmp-command/"
   },
-  "comm-23": {
+  {
     "Command": "comm",
     "Usage Example": "comm file1 file2",
     "Short Description": "Compare sorted files",
@@ -206,7 +206,7 @@
     "Level": "Pro",
     "Resource Link": "https://www.geeksforgeeks.org/comm-command-in-linux-with-examples/"
   },
-  "cut-24": {
+  {
     "Command": "cut",
     "Usage Example": "cut -d':' -f1 file",
     "Short Description": "Cut columns",
@@ -215,7 +215,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/cut-command-in-linux/"
   },
-  "paste-25": {
+  {
     "Command": "paste",
     "Usage Example": "paste f1 f2",
     "Short Description": "Merge lines",
@@ -224,7 +224,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://www.geeksforgeeks.org/paste-command-in-linux-with-examples/"
   },
-  "join-26": {
+  {
     "Command": "join",
     "Usage Example": "join f1 f2",
     "Short Description": "Database-like join",
@@ -233,7 +233,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://www.geeksforgeeks.org/join-command-in-unixlinux-with-examples/"
   },
-  "uname-27": {
+  {
     "Command": "uname",
     "Usage Example": "uname -a",
     "Short Description": "System info",
@@ -242,7 +242,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/uname-command-in-linux/"
   },
-  "lscpu-28": {
+  {
     "Command": "lscpu",
     "Usage Example": "lscpu",
     "Short Description": "CPU info",
@@ -251,7 +251,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/lscpu-command-in-linux/"
   },
-  "free-29": {
+  {
     "Command": "free",
     "Usage Example": "free -h",
     "Short Description": "Memory usage",
@@ -260,7 +260,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/free-command-in-linux/"
   },
-  "df-30": {
+  {
     "Command": "df",
     "Usage Example": "df -h",
     "Short Description": "Disk usage",
@@ -269,7 +269,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/df-command-in-linux/"
   },
-  "du-31": {
+  {
     "Command": "du",
     "Usage Example": "du -sh *",
     "Short Description": "Folder sizes",
@@ -278,7 +278,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/du-command-in-linux/"
   },
-  "ps-32": {
+  {
     "Command": "ps",
     "Usage Example": "ps aux",
     "Short Description": "Process list",
@@ -287,7 +287,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/ps-command-in-linux/"
   },
-  "top-33": {
+  {
     "Command": "top",
     "Usage Example": "top",
     "Short Description": "Live resource monitor",
@@ -296,7 +296,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/top-command-in-linux/"
   },
-  "vmstat-34": {
+  {
     "Command": "vmstat",
     "Usage Example": "vmstat 1",
     "Short Description": "Virtual mem stats",
@@ -305,7 +305,7 @@
     "Level": "Pro",
     "Resource Link": "https://www.geeksforgeeks.org/vmstat-command-in-linux-with-examples/"
   },
-  "iostat-35": {
+  {
     "Command": "iostat",
     "Usage Example": "iostat",
     "Short Description": "CPU/disk stats",
@@ -314,7 +314,7 @@
     "Level": "Pro",
     "Resource Link": "https://www.geeksforgeeks.org/iostat-command-in-linux-with-examples/"
   },
-  "lsof-36": {
+  {
     "Command": "lsof",
     "Usage Example": "lsof",
     "Short Description": "List open files",
@@ -323,7 +323,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/lsof-command-in-linux/"
   },
-  "dmesg-37": {
+  {
     "Command": "dmesg",
     "Usage Example": "dmesg",
     "Short Description": "Kernel messages",
@@ -332,7 +332,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/dmesg-command-in-linux/"
   },
-  "uptime-38": {
+  {
     "Command": "uptime",
     "Usage Example": "uptime",
     "Short Description": "Time since boot",
@@ -341,7 +341,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/uptime-command-in-linux/"
   },
-  "whoami-39": {
+  {
     "Command": "whoami",
     "Usage Example": "whoami",
     "Short Description": "Current user",
@@ -350,7 +350,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/whoami-command-in-linux/"
   },
-  "id-40": {
+  {
     "Command": "id",
     "Usage Example": "id",
     "Short Description": "User & group ids",
@@ -359,7 +359,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/id-command-in-linux/"
   },
-  "history-41": {
+  {
     "Command": "history",
     "Usage Example": "history",
     "Short Description": "Command history",
@@ -368,7 +368,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/history-command-in-linux/"
   },
-  "tar-42": {
+  {
     "Command": "tar",
     "Usage Example": "tar -czvf arch.tar.gz dir",
     "Short Description": "Archive/extract files",
@@ -377,7 +377,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/how-to-create-and-extract-archives-using-the-tar-command-in-linux/"
   },
-  "zip-43": {
+  {
     "Command": "zip",
     "Usage Example": "zip arch.zip file",
     "Short Description": "ZIP compression",
@@ -386,7 +386,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/how-to-zip-files-and-directories-in-linux/"
   },
-  "unzip-44": {
+  {
     "Command": "unzip",
     "Usage Example": "unzip arch.zip",
     "Short Description": "ZIP decompression",
@@ -395,7 +395,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/how-to-unzip-files-in-linux/"
   },
-  "gzip-45": {
+  {
     "Command": "gzip",
     "Usage Example": "gzip file.txt",
     "Short Description": "Gzip compression",
@@ -404,7 +404,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/gzip-command-in-linux/"
   },
-  "gunzip-46": {
+  {
     "Command": "gunzip",
     "Usage Example": "gunzip file.gz",
     "Short Description": "Gzip decompression",
@@ -413,7 +413,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/gunzip-command-in-linux/"
   },
-  "chmod-47": {
+  {
     "Command": "chmod",
     "Usage Example": "chmod 755 script.sh",
     "Short Description": "Change permissions",
@@ -422,7 +422,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/chmod-command-in-linux/"
   },
-  "chown-48": {
+  {
     "Command": "chown",
     "Usage Example": "chown user:group file",
     "Short Description": "Change ownership",
@@ -431,7 +431,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/chown-command-in-linux/"
   },
-  "chgrp-49": {
+  {
     "Command": "chgrp",
     "Usage Example": "chgrp group file",
     "Short Description": "Change group",
@@ -440,7 +440,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://www.geeksforgeeks.org/chgrp-command-in-unixlinux-with-examples/"
   },
-  "umask-50": {
+  {
     "Command": "umask",
     "Usage Example": "umask 022",
     "Short Description": "Set default perm mask",
@@ -449,7 +449,7 @@
     "Level": "Pro",
     "Resource Link": "https://www.geeksforgeeks.org/umask-command-in-linux-with-examples/"
   },
-  "ping-51": {
+  {
     "Command": "ping",
     "Usage Example": "ping 8.8.8.8",
     "Short Description": "Check network",
@@ -458,7 +458,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/ping-command-in-linux/"
   },
-  "ifconfig-52": {
+  {
     "Command": "ifconfig",
     "Usage Example": "ifconfig",
     "Short Description": "Net interfaces",
@@ -467,7 +467,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/ifconfig-command-in-linux/"
   },
-  "ip-53": {
+  {
     "Command": "ip",
     "Usage Example": "ip a",
     "Short Description": "Modern net interfaces",
@@ -476,7 +476,7 @@
     "Level": "Pro",
     "Resource Link": "https://linuxize.com/post/ip-command-in-linux/"
   },
-  "netstat-54": {
+  {
     "Command": "netstat",
     "Usage Example": "netstat -tuln",
     "Short Description": "Network sockets",
@@ -485,7 +485,7 @@
     "Level": "Pro",
     "Resource Link": "https://www.geeksforgeeks.org/netstat-command-linux/"
   },
-  "ss-55": {
+  {
     "Command": "ss",
     "Usage Example": "ss -tuln",
     "Short Description": "Sockets info",
@@ -494,7 +494,7 @@
     "Level": "Pro",
     "Resource Link": "https://linuxize.com/post/ss-command-in-linux/"
   },
-  "traceroute-56": {
+  {
     "Command": "traceroute",
     "Usage Example": "traceroute google.com",
     "Short Description": "Trace routing",
@@ -503,7 +503,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/traceroute-command-in-linux/"
   },
-  "nslookup-57": {
+  {
     "Command": "nslookup",
     "Usage Example": "nslookup example.com",
     "Short Description": "DNS lookup",
@@ -512,7 +512,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/nslookup-command-in-linux/"
   },
-  "dig-58": {
+  {
     "Command": "dig",
     "Usage Example": "dig example.com",
     "Short Description": "DNS lookup",
@@ -521,7 +521,7 @@
     "Level": "Pro",
     "Resource Link": "https://linuxize.com/post/dig-command-in-linux/"
   },
-  "wget-59": {
+  {
     "Command": "wget",
     "Usage Example": "wget URL",
     "Short Description": "Download",
@@ -530,7 +530,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/wget-command-examples/"
   },
-  "curl-60": {
+  {
     "Command": "curl",
     "Usage Example": "curl URL",
     "Short Description": "Retrieve web data",
@@ -539,7 +539,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/curl-command-examples/"
   },
-  "ssh-61": {
+  {
     "Command": "ssh",
     "Usage Example": "ssh user@host",
     "Short Description": "Remote SSH login",
@@ -548,7 +548,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/how-to-use-ssh-to-connect-to-a-remote-server-in-linux/"
   },
-  "scp-62": {
+  {
     "Command": "scp",
     "Usage Example": "scp file user@host:/dest",
     "Short Description": "Remote file transfer",
@@ -557,7 +557,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/scp-command-in-linux/"
   },
-  "rsync-63": {
+  {
     "Command": "rsync",
     "Usage Example": "rsync src dst",
     "Short Description": "Efficient sync",
@@ -566,7 +566,7 @@
     "Level": "Pro",
     "Resource Link": "https://linuxize.com/post/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization/"
   },
-  "ftp-64": {
+  {
     "Command": "ftp",
     "Usage Example": "ftp host",
     "Short Description": "File transfer",
@@ -575,7 +575,7 @@
     "Level": "Pro",
     "Resource Link": "https://www.geeksforgeeks.org/ftp-command-in-linux-with-examples/"
   },
-  "sftp-65": {
+  {
     "Command": "sftp",
     "Usage Example": "sftp user@host",
     "Short Description": "Secure file transfer",
@@ -584,7 +584,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/how-to-use-sftp-to-securely-transfer-files/"
   },
-  "ifup-66": {
+  {
     "Command": "ifup",
     "Usage Example": "ifup eth0",
     "Short Description": "Interface up",
@@ -593,7 +593,7 @@
     "Level": "Pro",
     "Resource Link": "https://www.geeksforgeeks.org/ifup-command-in-linux-with-examples/"
   },
-  "ifdown-67": {
+  {
     "Command": "ifdown",
     "Usage Example": "ifdown eth0",
     "Short Description": "Interface down",
@@ -602,7 +602,7 @@
     "Level": "Pro",
     "Resource Link": "https://www.geeksforgeeks.org/ifdown-command-in-linux-with-examples/"
   },
-  "iptables-68": {
+  {
     "Command": "iptables",
     "Usage Example": "iptables -L",
     "Short Description": "Firewall config",
@@ -611,7 +611,7 @@
     "Level": "Pro",
     "Resource Link": "https://www.geeksforgeeks.org/iptables-essentials-common-firewall-rules-and-commands/"
   },
-  "ufw-69": {
+  {
     "Command": "ufw",
     "Usage Example": "ufw allow 80",
     "Short Description": "Easy firewall config",
@@ -620,7 +620,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/ufw-uncomplicated-firewall/"
   },
-  "adduser-70": {
+  {
     "Command": "adduser",
     "Usage Example": "adduser john",
     "Short Description": "Add new user",
@@ -629,7 +629,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/how-to-add-users-to-linux/"
   },
-  "useradd-71": {
+  {
     "Command": "useradd",
     "Usage Example": "useradd john",
     "Short Description": "Add new user",
@@ -638,7 +638,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/useradd-command-in-linux/"
   },
-  "deluser-72": {
+  {
     "Command": "deluser",
     "Usage Example": "deluser john",
     "Short Description": "Remove user",
@@ -647,7 +647,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://www.geeksforgeeks.org/deluser-command-in-linux-with-examples/"
   },
-  "userdel-73": {
+  {
     "Command": "userdel",
     "Usage Example": "userdel john",
     "Short Description": "Remove user",
@@ -656,7 +656,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://www.geeksforgeeks.org/userdel-command-in-linux-with-examples/"
   },
-  "passwd-74": {
+  {
     "Command": "passwd",
     "Usage Example": "passwd username",
     "Short Description": "Change password",
@@ -665,7 +665,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/passwd-command-in-linux/"
   },
-  "usermod-75": {
+  {
     "Command": "usermod",
     "Usage Example": "usermod -aG sudo john",
     "Short Description": "Modify user",
@@ -674,7 +674,7 @@
     "Level": "Pro",
     "Resource Link": "https://linuxize.com/post/usermod-command-in-linux/"
   },
-  "chage-76": {
+  {
     "Command": "chage",
     "Usage Example": "chage -l john",
     "Short Description": "Change password expiry",
@@ -683,7 +683,7 @@
     "Level": "Pro",
     "Resource Link": "https://www.geeksforgeeks.org/chage-command-in-linux-with-examples/"
   },
-  "groups-77": {
+  {
     "Command": "groups",
     "Usage Example": "groups john",
     "Short Description": "Show groups",
@@ -692,7 +692,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/groups-command-in-linux/"
   },
-  "newgrp-78": {
+  {
     "Command": "newgrp",
     "Usage Example": "newgrp group",
     "Short Description": "Switch shell group",
@@ -701,7 +701,7 @@
     "Level": "Pro",
     "Resource Link": "https://www.geeksforgeeks.org/newgrp-command-in-linux-with-examples/"
   },
-  "apt-79": {
+  {
     "Command": "apt",
     "Usage Example": "apt install nginx",
     "Short Description": "Debian package mgmt",
@@ -710,7 +710,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/how-to-install-and-manage-packages-in-ubuntu/"
   },
-  "yum-80": {
+  {
     "Command": "yum",
     "Usage Example": "yum install nginx",
     "Short Description": "RPM package mgmt",
@@ -719,7 +719,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://www.digitalocean.com/community/tutorials/how-to-use-yum-to-install-packages"
   },
-  "pacman-81": {
+  {
     "Command": "pacman",
     "Usage Example": "pacman -S nginx",
     "Short Description": "Arch package mgmt",
@@ -728,7 +728,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://wiki.archlinux.org/title/pacman"
   },
-  "dpkg-82": {
+  {
     "Command": "dpkg",
     "Usage Example": "dpkg -i package.deb",
     "Short Description": "Install .deb file",
@@ -737,7 +737,7 @@
     "Level": "Pro",
     "Resource Link": "https://linuxize.com/post/how-to-install-deb-files-in-ubuntu/"
   },
-  "rpm-83": {
+  {
     "Command": "rpm",
     "Usage Example": "rpm -i package.rpm",
     "Short Description": "Install .rpm file",
@@ -746,7 +746,7 @@
     "Level": "Pro",
     "Resource Link": "https://linuxize.com/post/how-to-install-an-rpm-file-in-linux/"
   },
-  "systemctl-84": {
+  {
     "Command": "systemctl",
     "Usage Example": "systemctl status nginx",
     "Short Description": "Manage systemd svcs",
@@ -755,7 +755,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/systemctl-command-in-linux/"
   },
-  "service-85": {
+  {
     "Command": "service",
     "Usage Example": "service nginx restart",
     "Short Description": "Manage sysv svcs",
@@ -764,7 +764,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://www.tecmint.com/linux-service-command/"
   },
-  "reboot-86": {
+  {
     "Command": "reboot",
     "Usage Example": "reboot",
     "Short Description": "Reboot system",
@@ -773,7 +773,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/linux-reboot-command/"
   },
-  "shutdown-87": {
+  {
     "Command": "shutdown",
     "Usage Example": "shutdown now",
     "Short Description": "Shutdown system",
@@ -782,7 +782,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/shutdown-command-in-linux/"
   },
-  "cal-88": {
+  {
     "Command": "cal",
     "Usage Example": "cal",
     "Short Description": "Calendar",
@@ -791,7 +791,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/cal-command-in-linux/"
   },
-  "date-89": {
+  {
     "Command": "date",
     "Usage Example": "date",
     "Short Description": "Show/set date/time",
@@ -800,7 +800,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/date-command-in-linux/"
   },
-  "alias-90": {
+  {
     "Command": "alias",
     "Usage Example": "alias ll='ls -l'",
     "Short Description": "Shortcut commands",
@@ -809,7 +809,7 @@
     "Level": "Beginner",
     "Resource Link": "https://www.geeksforgeeks.org/alias-command-in-linux-with-examples/"
   },
-  "unalias-91": {
+  {
     "Command": "unalias",
     "Usage Example": "unalias ll",
     "Short Description": "Remove an alias",
@@ -818,7 +818,7 @@
     "Level": "Beginner",
     "Resource Link": "https://www.geeksforgeeks.org/unalias-command-linux/"
   },
-  "clear-92": {
+  {
     "Command": "clear",
     "Usage Example": "clear",
     "Short Description": "Clear terminal",
@@ -827,7 +827,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/clear-command-in-linux/"
   },
-  "man-93": {
+  {
     "Command": "man",
     "Usage Example": "man ls",
     "Short Description": "Manual/help files",
@@ -836,7 +836,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/linux-man-command/"
   },
-  "whatis-94": {
+  {
     "Command": "whatis",
     "Usage Example": "whatis ls",
     "Short Description": "Short desc command",
@@ -845,7 +845,7 @@
     "Level": "Beginner",
     "Resource Link": "https://www.geeksforgeeks.org/whatis-command-in-unix-linux-with-examples/"
   },
-  "whereis-95": {
+  {
     "Command": "whereis",
     "Usage Example": "whereis ls",
     "Short Description": "Command location",
@@ -854,7 +854,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/whereis-command-in-linux/"
   },
-  "which-96": {
+  {
     "Command": "which",
     "Usage Example": "which ls",
     "Short Description": "Executable in PATH",
@@ -863,7 +863,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/which-command-in-linux/"
   },
-  "time-97": {
+  {
     "Command": "time",
     "Usage Example": "time ls",
     "Short Description": "Time command",
@@ -872,7 +872,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://www.geeksforgeeks.org/time-command-in-linux-with-examples/"
   },
-  "sleep-98": {
+  {
     "Command": "sleep",
     "Usage Example": "sleep 5",
     "Short Description": "Wait/delay",
@@ -881,7 +881,7 @@
     "Level": "Beginner",
     "Resource Link": "https://linuxize.com/post/sleep-command-in-linux/"
   },
-  "watch-99": {
+  {
     "Command": "watch",
     "Usage Example": "watch -n 2 date",
     "Short Description": "Run/repeat command",
@@ -890,7 +890,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/watch-command-in-linux/"
   },
-  "gcc-100": {
+  {
     "Command": "gcc",
     "Usage Example": "gcc main.c",
     "Short Description": "Compile code",
@@ -899,7 +899,7 @@
     "Level": "Pro",
     "Resource Link": "https://linuxize.com/post/gcc-command-in-linux/"
   },
-  "g++-101": {
+  {
     "Command": "g++",
     "Usage Example": "g++ main.cpp",
     "Short Description": "Compile C++ code",
@@ -908,7 +908,7 @@
     "Level": "Pro",
     "Resource Link": "https://linuxize.com/post/gcc-command-in-linux/"
   },
-  "git-102": {
+  {
     "Command": "git",
     "Usage Example": "git status",
     "Short Description": "Version control",
@@ -917,7 +917,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://git-scm.com/book/en/v2/Getting-Started-Git-Basics"
   },
-  "make-103": {
+  {
     "Command": "make",
     "Usage Example": "make",
     "Short Description": "Build automation",
@@ -926,7 +926,7 @@
     "Level": "Intermediate",
     "Resource Link": "https://linuxize.com/post/using-make-and-makefile-in-linux/"
   },
-  "strace-104": {
+  {
     "Command": "strace",
     "Usage Example": "strace -p 12345",
     "Short Description": "Trace system calls",
@@ -935,4 +935,4 @@
     "Level": "Pro",
     "Resource Link": "https://linuxize.com/post/strace-command-in-linux/"
   }
-}
+]
