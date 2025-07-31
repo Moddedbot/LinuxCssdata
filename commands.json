@@ -3,939 +3,939 @@
   "Comms": [
     {
       "Command": "ls",
-      "Usage Example": "ls -l",
-      "Short Description": "List files",
-      "Full Description": "Lists directory contents. Use options for details",
+      "Usage_Example": "ls -l",
+      "Short_Description": "List files",
+      "Full_Description": "Lists directory contents. Use options for details",
       "Category": "File & Directory Management",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/linux-ls-command/"
+      "Resource_Link": "https://linuxize.com/post/linux-ls-command/"
     },
     {
       "Command": "cd",
-      "Usage Example": "cd /var/log",
-      "Short Description": "Change directory",
-      "Full Description": "Changes working directory to specified path",
+      "Usage_Example": "cd /var/log",
+      "Short_Description": "Change directory",
+      "Full_Description": "Changes working directory to specified path",
       "Category": "File & Directory Management",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/linux-cd-command/"
+      "Resource_Link": "https://linuxize.com/post/linux-cd-command/"
     },
     {
       "Command": "pwd",
-      "Usage Example": "pwd",
-      "Short Description": "Print working dir",
-      "Full Description": "Prints absolute path to current dir",
+      "Usage_Example": "pwd",
+      "Short_Description": "Print working dir",
+      "Full_Description": "Prints absolute path to current dir",
       "Category": "File & Directory Management",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/pwd-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/pwd-command-in-linux/"
     },
     {
       "Command": "mkdir",
-      "Usage Example": "mkdir docs",
-      "Short Description": "Make new directory",
-      "Full Description": "Creates a new directory",
+      "Usage_Example": "mkdir docs",
+      "Short_Description": "Make new directory",
+      "Full_Description": "Creates a new directory",
       "Category": "File & Directory Management",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/how-to-create-directories-in-linux-with-mkdir/"
+      "Resource_Link": "https://linuxize.com/post/how-to-create-directories-in-linux-with-mkdir/"
     },
     {
       "Command": "rmdir",
-      "Usage Example": "rmdir docs",
-      "Short Description": "Remove empty directory",
-      "Full Description": "Removes empty directories",
+      "Usage_Example": "rmdir docs",
+      "Short_Description": "Remove empty directory",
+      "Full_Description": "Removes empty directories",
       "Category": "File & Directory Management",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/linux-rmdir-command/"
+      "Resource_Link": "https://linuxize.com/post/linux-rmdir-command/"
     },
     {
       "Command": "rm",
-      "Usage Example": "rm file.txt",
-      "Short Description": "Remove files/dirs",
-      "Full Description": "Deletes files or directories. Use -r for dirs.",
+      "Usage_Example": "rm file.txt",
+      "Short_Description": "Remove files/dirs",
+      "Full_Description": "Deletes files or directories. Use -r for dirs.",
       "Category": "File & Directory Management",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/linux-rm-command/"
+      "Resource_Link": "https://linuxize.com/post/linux-rm-command/"
     },
     {
       "Command": "cp",
-      "Usage Example": "cp a.txt b.txt",
-      "Short Description": "Copy files/dirs",
-      "Full Description": "Copies files or directories",
+      "Usage_Example": "cp a.txt b.txt",
+      "Short_Description": "Copy files/dirs",
+      "Full_Description": "Copies files or directories",
       "Category": "File & Directory Management",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/linux-cp-command/"
+      "Resource_Link": "https://linuxize.com/post/linux-cp-command/"
     },
     {
       "Command": "mv",
-      "Usage Example": "mv a.txt b.txt",
-      "Short Description": "Move/rename files",
-      "Full Description": "Moves or renames files/directories",
+      "Usage_Example": "mv a.txt b.txt",
+      "Short_Description": "Move/rename files",
+      "Full_Description": "Moves or renames files/directories",
       "Category": "File & Directory Management",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/linux-mv-command/"
+      "Resource_Link": "https://linuxize.com/post/linux-mv-command/"
     },
     {
       "Command": "touch",
-      "Usage Example": "touch file.txt",
-      "Short Description": "Create empty file",
-      "Full Description": "Creates new empty file or updates timestamp",
+      "Usage_Example": "touch file.txt",
+      "Short_Description": "Create empty file",
+      "Full_Description": "Creates new empty file or updates timestamp",
       "Category": "File & Directory Management",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/linux-touch-command/"
+      "Resource_Link": "https://linuxize.com/post/linux-touch-command/"
     },
     {
       "Command": "ln",
-      "Usage Example": "ln -s file linkname",
-      "Short Description": "Create links",
-      "Full Description": "Creates symbolic or hard links",
+      "Usage_Example": "ln -s file linkname",
+      "Short_Description": "Create links",
+      "Full_Description": "Creates symbolic or hard links",
       "Category": "File & Directory Management",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/how-to-create-symbolic-links-in-linux-using-the-ln-command/"
+      "Resource_Link": "https://linuxize.com/post/how-to-create-symbolic-links-in-linux-using-the-ln-command/"
     },
     {
       "Command": "cat",
-      "Usage Example": "cat file.txt",
-      "Short Description": "View file contents",
-      "Full Description": "Displays file content to screen",
+      "Usage_Example": "cat file.txt",
+      "Short_Description": "View file contents",
+      "Full_Description": "Displays file content to screen",
       "Category": "File Viewing/Text Processing",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/linux-cat-command/"
+      "Resource_Link": "https://linuxize.com/post/linux-cat-command/"
     },
     {
       "Command": "head",
-      "Usage Example": "head file.txt",
-      "Short Description": "View file start",
-      "Full Description": "Shows first lines of file",
+      "Usage_Example": "head file.txt",
+      "Short_Description": "View file start",
+      "Full_Description": "Shows first lines of file",
       "Category": "File Viewing/Text Processing",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/head-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/head-command-in-linux/"
     },
     {
       "Command": "tail",
-      "Usage Example": "tail file.txt",
-      "Short Description": "View file end",
-      "Full Description": "Shows last lines of file or follows logs",
+      "Usage_Example": "tail file.txt",
+      "Short_Description": "View file end",
+      "Full_Description": "Shows last lines of file or follows logs",
       "Category": "File Viewing/Text Processing",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/tail-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/tail-command-in-linux/"
     },
     {
       "Command": "less",
-      "Usage Example": "less file.txt",
-      "Short Description": "Scroll file",
-      "Full Description": "Opens file scrollable",
+      "Usage_Example": "less file.txt",
+      "Short_Description": "Scroll file",
+      "Full_Description": "Opens file scrollable",
       "Category": "q to quit",
       "Level": "File Viewing/Text Processing",
-      "Resource Link": "Beginner"
+      "Resource_Link": "Beginner"
     },
     {
       "Command": "grep",
-      "Usage Example": "grep pattern file.txt",
-      "Short Description": "Search text pattern",
-      "Full Description": "Searches for regex/string matches",
+      "Usage_Example": "grep pattern file.txt",
+      "Short_Description": "Search text pattern",
+      "Full_Description": "Searches for regex/string matches",
       "Category": "File Viewing/Text Processing",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/grep-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/grep-command-in-linux/"
     },
     {
       "Command": "awk",
-      "Usage Example": "awk '{print $1}' file",
-      "Short Description": "Pattern scan/process",
-      "Full Description": "Processes fields/text by pattern",
+      "Usage_Example": "awk '{print $1}' file",
+      "Short_Description": "Pattern scan/process",
+      "Full_Description": "Processes fields/text by pattern",
       "Category": "File Viewing/Text Processing",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/awk-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/awk-command-in-linux/"
     },
     {
       "Command": "sed",
-      "Usage Example": "sed 's/old/new/g' file",
-      "Short Description": "Stream editor",
-      "Full Description": "Non-interactive editing/replacement",
+      "Usage_Example": "sed 's/old/new/g' file",
+      "Short_Description": "Stream editor",
+      "Full_Description": "Non-interactive editing/replacement",
       "Category": "File Viewing/Text Processing",
       "Level": "Pro",
-      "Resource Link": "https://linuxize.com/post/sed-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/sed-command-in-linux/"
     },
     {
       "Command": "sort",
-      "Usage Example": "sort file.txt",
-      "Short Description": "Sort lines",
-      "Full Description": "Sorts data line-by-line",
+      "Usage_Example": "sort file.txt",
+      "Short_Description": "Sort lines",
+      "Full_Description": "Sorts data line-by-line",
       "Category": "File Viewing/Text Processing",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/sort-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/sort-command-in-linux/"
     },
     {
       "Command": "uniq",
-      "Usage Example": "uniq file.txt",
-      "Short Description": "Remove duplicates",
-      "Full Description": "Removes adjacent duplicate lines",
+      "Usage_Example": "uniq file.txt",
+      "Short_Description": "Remove duplicates",
+      "Full_Description": "Removes adjacent duplicate lines",
       "Category": "File Viewing/Text Processing",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/uniq-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/uniq-command-in-linux/"
     },
     {
       "Command": "wc",
-      "Usage Example": "wc -l file.txt",
-      "Short Description": "Word/line/char count",
-      "Full Description": "Counts lines/words/chars",
+      "Usage_Example": "wc -l file.txt",
+      "Short_Description": "Word/line/char count",
+      "Full_Description": "Counts lines/words/chars",
       "Category": "File Viewing/Text Processing",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/wc-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/wc-command-in-linux/"
     },
     {
       "Command": "diff",
-      "Usage Example": "diff file1 file2",
-      "Short Description": "Compare files",
-      "Full Description": "Shows file line differences",
+      "Usage_Example": "diff file1 file2",
+      "Short_Description": "Compare files",
+      "Full_Description": "Shows file line differences",
       "Category": "File Viewing/Text Processing",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/diff-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/diff-command-in-linux/"
     },
     {
       "Command": "cmp",
-      "Usage Example": "cmp file1 file2",
-      "Short Description": "Byte-wise compare",
-      "Full Description": "Compares files by bytes",
+      "Usage_Example": "cmp file1 file2",
+      "Short_Description": "Byte-wise compare",
+      "Full_Description": "Compares files by bytes",
       "Category": "File Viewing/Text Processing",
       "Level": "Intermediate",
-      "Resource Link": "https://www.tecmint.com/linux-cmp-command/"
+      "Resource_Link": "https://www.tecmint.com/linux-cmp-command/"
     },
     {
       "Command": "comm",
-      "Usage Example": "comm file1 file2",
-      "Short Description": "Compare sorted files",
-      "Full Description": "Lines in both files or unique",
+      "Usage_Example": "comm file1 file2",
+      "Short_Description": "Compare sorted files",
+      "Full_Description": "Lines in both files or unique",
       "Category": "File Viewing/Text Processing",
       "Level": "Pro",
-      "Resource Link": "https://www.geeksforgeeks.org/comm-command-in-linux-with-examples/"
+      "Resource_Link": "https://www.geeksforgeeks.org/comm-command-in-linux-with-examples/"
     },
     {
       "Command": "cut",
-      "Usage Example": "cut -d':' -f1 file",
-      "Short Description": "Cut columns",
-      "Full Description": "Extracts sections or columns from input",
+      "Usage_Example": "cut -d':' -f1 file",
+      "Short_Description": "Cut columns",
+      "Full_Description": "Extracts sections or columns from input",
       "Category": "File Viewing/Text Processing",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/cut-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/cut-command-in-linux/"
     },
     {
       "Command": "paste",
-      "Usage Example": "paste f1 f2",
-      "Short Description": "Merge lines",
-      "Full Description": "Joins lines from multiple files",
+      "Usage_Example": "paste f1 f2",
+      "Short_Description": "Merge lines",
+      "Full_Description": "Joins lines from multiple files",
       "Category": "File Viewing/Text Processing",
       "Level": "Intermediate",
-      "Resource Link": "https://www.geeksforgeeks.org/paste-command-in-linux-with-examples/"
+      "Resource_Link": "https://www.geeksforgeeks.org/paste-command-in-linux-with-examples/"
     },
     {
       "Command": "join",
-      "Usage Example": "join f1 f2",
-      "Short Description": "Database-like join",
-      "Full Description": "Joins lines with common field",
+      "Usage_Example": "join f1 f2",
+      "Short_Description": "Database-like join",
+      "Full_Description": "Joins lines with common field",
       "Category": "File Viewing/Text Processing",
       "Level": "Intermediate",
-      "Resource Link": "https://www.geeksforgeeks.org/join-command-in-unixlinux-with-examples/"
+      "Resource_Link": "https://www.geeksforgeeks.org/join-command-in-unixlinux-with-examples/"
     },
     {
       "Command": "uname",
-      "Usage Example": "uname -a",
-      "Short Description": "System info",
-      "Full Description": "Shows kernel/system info",
+      "Usage_Example": "uname -a",
+      "Short_Description": "System info",
+      "Full_Description": "Shows kernel/system info",
       "Category": "System Information & Monitoring",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/uname-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/uname-command-in-linux/"
     },
     {
       "Command": "lscpu",
-      "Usage Example": "lscpu",
-      "Short Description": "CPU info",
-      "Full Description": "Displays CPU architecture details",
+      "Usage_Example": "lscpu",
+      "Short_Description": "CPU info",
+      "Full_Description": "Displays CPU architecture details",
       "Category": "System Information & Monitoring",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/lscpu-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/lscpu-command-in-linux/"
     },
     {
       "Command": "free",
-      "Usage Example": "free -h",
-      "Short Description": "Memory usage",
-      "Full Description": "Shows RAM usage",
+      "Usage_Example": "free -h",
+      "Short_Description": "Memory usage",
+      "Full_Description": "Shows RAM usage",
       "Category": "System Information & Monitoring",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/free-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/free-command-in-linux/"
     },
     {
       "Command": "df",
-      "Usage Example": "df -h",
-      "Short Description": "Disk usage",
-      "Full Description": "Shows disk usage for filesystems",
+      "Usage_Example": "df -h",
+      "Short_Description": "Disk usage",
+      "Full_Description": "Shows disk usage for filesystems",
       "Category": "System Information & Monitoring",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/df-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/df-command-in-linux/"
     },
     {
       "Command": "du",
-      "Usage Example": "du -sh *",
-      "Short Description": "Folder sizes",
-      "Full Description": "Shows total size per folder/file",
+      "Usage_Example": "du -sh *",
+      "Short_Description": "Folder sizes",
+      "Full_Description": "Shows total size per folder/file",
       "Category": "System Information & Monitoring",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/du-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/du-command-in-linux/"
     },
     {
       "Command": "ps",
-      "Usage Example": "ps aux",
-      "Short Description": "Process list",
-      "Full Description": "Shows running processes",
+      "Usage_Example": "ps aux",
+      "Short_Description": "Process list",
+      "Full_Description": "Shows running processes",
       "Category": "System Information & Monitoring",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/ps-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/ps-command-in-linux/"
     },
     {
       "Command": "top",
-      "Usage Example": "top",
-      "Short Description": "Live resource monitor",
-      "Full Description": "Live updating resource view",
+      "Usage_Example": "top",
+      "Short_Description": "Live resource monitor",
+      "Full_Description": "Live updating resource view",
       "Category": "System Information & Monitoring",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/top-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/top-command-in-linux/"
     },
     {
       "Command": "vmstat",
-      "Usage Example": "vmstat 1",
-      "Short Description": "Virtual mem stats",
-      "Full Description": "Shows memory/cpu/process stats",
+      "Usage_Example": "vmstat 1",
+      "Short_Description": "Virtual mem stats",
+      "Full_Description": "Shows memory/cpu/process stats",
       "Category": "System Information & Monitoring",
       "Level": "Pro",
-      "Resource Link": "https://www.geeksforgeeks.org/vmstat-command-in-linux-with-examples/"
+      "Resource_Link": "https://www.geeksforgeeks.org/vmstat-command-in-linux-with-examples/"
     },
     {
       "Command": "iostat",
-      "Usage Example": "iostat",
-      "Short Description": "CPU/disk stats",
-      "Full Description": "Reports I/O/CPU stats",
+      "Usage_Example": "iostat",
+      "Short_Description": "CPU/disk stats",
+      "Full_Description": "Reports I/O/CPU stats",
       "Category": "System Information & Monitoring",
       "Level": "Pro",
-      "Resource Link": "https://www.geeksforgeeks.org/iostat-command-in-linux-with-examples/"
+      "Resource_Link": "https://www.geeksforgeeks.org/iostat-command-in-linux-with-examples/"
     },
     {
       "Command": "lsof",
-      "Usage Example": "lsof",
-      "Short Description": "List open files",
-      "Full Description": "Lists open files and processes",
+      "Usage_Example": "lsof",
+      "Short_Description": "List open files",
+      "Full_Description": "Lists open files and processes",
       "Category": "System Information & Monitoring",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/lsof-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/lsof-command-in-linux/"
     },
     {
       "Command": "dmesg",
-      "Usage Example": "dmesg",
-      "Short Description": "Kernel messages",
-      "Full Description": "Shows hardware/kernel logs",
+      "Usage_Example": "dmesg",
+      "Short_Description": "Kernel messages",
+      "Full_Description": "Shows hardware/kernel logs",
       "Category": "System Information & Monitoring",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/dmesg-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/dmesg-command-in-linux/"
     },
     {
       "Command": "uptime",
-      "Usage Example": "uptime",
-      "Short Description": "Time since boot",
-      "Full Description": "Shows uptime/load averages",
+      "Usage_Example": "uptime",
+      "Short_Description": "Time since boot",
+      "Full_Description": "Shows uptime/load averages",
       "Category": "System Information & Monitoring",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/uptime-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/uptime-command-in-linux/"
     },
     {
       "Command": "whoami",
-      "Usage Example": "whoami",
-      "Short Description": "Current user",
-      "Full Description": "Prints your username",
+      "Usage_Example": "whoami",
+      "Short_Description": "Current user",
+      "Full_Description": "Prints your username",
       "Category": "System Information & Monitoring",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/whoami-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/whoami-command-in-linux/"
     },
     {
       "Command": "id",
-      "Usage Example": "id",
-      "Short Description": "User & group ids",
-      "Full Description": "Shows your user/group ids",
+      "Usage_Example": "id",
+      "Short_Description": "User & group ids",
+      "Full_Description": "Shows your user/group ids",
       "Category": "System Information & Monitoring",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/id-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/id-command-in-linux/"
     },
     {
       "Command": "history",
-      "Usage Example": "history",
-      "Short Description": "Command history",
-      "Full Description": "Shows command line history",
+      "Usage_Example": "history",
+      "Short_Description": "Command history",
+      "Full_Description": "Shows command line history",
       "Category": "System Information & Monitoring",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/history-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/history-command-in-linux/"
     },
     {
       "Command": "tar",
-      "Usage Example": "tar -czvf arch.tar.gz dir",
-      "Short Description": "Archive/extract files",
-      "Full Description": "Compresses or extracts archives",
+      "Usage_Example": "tar -czvf arch.tar.gz dir",
+      "Short_Description": "Archive/extract files",
+      "Full_Description": "Compresses or extracts archives",
       "Category": "Compression & Archiving",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/how-to-create-and-extract-archives-using-the-tar-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/how-to-create-and-extract-archives-using-the-tar-command-in-linux/"
     },
     {
       "Command": "zip",
-      "Usage Example": "zip arch.zip file",
-      "Short Description": "ZIP compression",
-      "Full Description": "Compresses files",
+      "Usage_Example": "zip arch.zip file",
+      "Short_Description": "ZIP compression",
+      "Full_Description": "Compresses files",
       "Category": "Compression & Archiving",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/how-to-zip-files-and-directories-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/how-to-zip-files-and-directories-in-linux/"
     },
     {
       "Command": "unzip",
-      "Usage Example": "unzip arch.zip",
-      "Short Description": "ZIP decompression",
-      "Full Description": "Extracts ZIP files",
+      "Usage_Example": "unzip arch.zip",
+      "Short_Description": "ZIP decompression",
+      "Full_Description": "Extracts ZIP files",
       "Category": "Compression & Archiving",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/how-to-unzip-files-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/how-to-unzip-files-in-linux/"
     },
     {
       "Command": "gzip",
-      "Usage Example": "gzip file.txt",
-      "Short Description": "Gzip compression",
-      "Full Description": "Compresses single files",
+      "Usage_Example": "gzip file.txt",
+      "Short_Description": "Gzip compression",
+      "Full_Description": "Compresses single files",
       "Category": "Compression & Archiving",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/gzip-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/gzip-command-in-linux/"
     },
     {
       "Command": "gunzip",
-      "Usage Example": "gunzip file.gz",
-      "Short Description": "Gzip decompression",
-      "Full Description": "Uncompresses .gz files",
+      "Usage_Example": "gunzip file.gz",
+      "Short_Description": "Gzip decompression",
+      "Full_Description": "Uncompresses .gz files",
       "Category": "Compression & Archiving",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/gunzip-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/gunzip-command-in-linux/"
     },
     {
       "Command": "chmod",
-      "Usage Example": "chmod 755 script.sh",
-      "Short Description": "Change permissions",
-      "Full Description": "Sets file permissions",
+      "Usage_Example": "chmod 755 script.sh",
+      "Short_Description": "Change permissions",
+      "Full_Description": "Sets file permissions",
       "Category": "File Permissions/Ownership",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/chmod-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/chmod-command-in-linux/"
     },
     {
       "Command": "chown",
-      "Usage Example": "chown user:group file",
-      "Short Description": "Change ownership",
-      "Full Description": "Changes file/directory owner",
+      "Usage_Example": "chown user:group file",
+      "Short_Description": "Change ownership",
+      "Full_Description": "Changes file/directory owner",
       "Category": "File Permissions/Ownership",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/chown-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/chown-command-in-linux/"
     },
     {
       "Command": "chgrp",
-      "Usage Example": "chgrp group file",
-      "Short Description": "Change group",
-      "Full Description": "Sets group of file/dir",
+      "Usage_Example": "chgrp group file",
+      "Short_Description": "Change group",
+      "Full_Description": "Sets group of file/dir",
       "Category": "File Permissions/Ownership",
       "Level": "Intermediate",
-      "Resource Link": "https://www.geeksforgeeks.org/chgrp-command-in-unixlinux-with-examples/"
+      "Resource_Link": "https://www.geeksforgeeks.org/chgrp-command-in-unixlinux-with-examples/"
     },
     {
       "Command": "umask",
-      "Usage Example": "umask 022",
-      "Short Description": "Set default perm mask",
-      "Full Description": "Sets default new file permissions",
+      "Usage_Example": "umask 022",
+      "Short_Description": "Set default perm mask",
+      "Full_Description": "Sets default new file permissions",
       "Category": "File Permissions/Ownership",
       "Level": "Pro",
-      "Resource Link": "https://www.geeksforgeeks.org/umask-command-in-linux-with-examples/"
+      "Resource_Link": "https://www.geeksforgeeks.org/umask-command-in-linux-with-examples/"
     },
     {
       "Command": "ping",
-      "Usage Example": "ping 8.8.8.8",
-      "Short Description": "Check network",
-      "Full Description": "Ping test for connectivity",
+      "Usage_Example": "ping 8.8.8.8",
+      "Short_Description": "Check network",
+      "Full_Description": "Ping test for connectivity",
       "Category": "Networking",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/ping-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/ping-command-in-linux/"
     },
     {
       "Command": "ifconfig",
-      "Usage Example": "ifconfig",
-      "Short Description": "Net interfaces",
-      "Full Description": "Shows/configures net interfaces",
+      "Usage_Example": "ifconfig",
+      "Short_Description": "Net interfaces",
+      "Full_Description": "Shows/configures net interfaces",
       "Category": "Networking",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/ifconfig-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/ifconfig-command-in-linux/"
     },
     {
       "Command": "ip",
-      "Usage Example": "ip a",
-      "Short Description": "Modern net interfaces",
-      "Full Description": "Show/configure modern net interfaces",
+      "Usage_Example": "ip a",
+      "Short_Description": "Modern net interfaces",
+      "Full_Description": "Show/configure modern net interfaces",
       "Category": "Networking",
       "Level": "Pro",
-      "Resource Link": "https://linuxize.com/post/ip-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/ip-command-in-linux/"
     },
     {
       "Command": "netstat",
-      "Usage Example": "netstat -tuln",
-      "Short Description": "Network sockets",
-      "Full Description": "Lists sockets and net connections",
+      "Usage_Example": "netstat -tuln",
+      "Short_Description": "Network sockets",
+      "Full_Description": "Lists sockets and net connections",
       "Category": "Networking",
       "Level": "Pro",
-      "Resource Link": "https://www.geeksforgeeks.org/netstat-command-linux/"
+      "Resource_Link": "https://www.geeksforgeeks.org/netstat-command-linux/"
     },
     {
       "Command": "ss",
-      "Usage Example": "ss -tuln",
-      "Short Description": "Sockets info",
-      "Full Description": "Faster socket info",
+      "Usage_Example": "ss -tuln",
+      "Short_Description": "Sockets info",
+      "Full_Description": "Faster socket info",
       "Category": "Networking",
       "Level": "Pro",
-      "Resource Link": "https://linuxize.com/post/ss-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/ss-command-in-linux/"
     },
     {
       "Command": "traceroute",
-      "Usage Example": "traceroute google.com",
-      "Short Description": "Trace routing",
-      "Full Description": "Traces packet hops",
+      "Usage_Example": "traceroute google.com",
+      "Short_Description": "Trace routing",
+      "Full_Description": "Traces packet hops",
       "Category": "Networking",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/traceroute-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/traceroute-command-in-linux/"
     },
     {
       "Command": "nslookup",
-      "Usage Example": "nslookup example.com",
-      "Short Description": "DNS lookup",
-      "Full Description": "Queries DNS for domain",
+      "Usage_Example": "nslookup example.com",
+      "Short_Description": "DNS lookup",
+      "Full_Description": "Queries DNS for domain",
       "Category": "Networking",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/nslookup-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/nslookup-command-in-linux/"
     },
     {
       "Command": "dig",
-      "Usage Example": "dig example.com",
-      "Short Description": "DNS lookup",
-      "Full Description": "Advanced DNS queries",
+      "Usage_Example": "dig example.com",
+      "Short_Description": "DNS lookup",
+      "Full_Description": "Advanced DNS queries",
       "Category": "Networking",
       "Level": "Pro",
-      "Resource Link": "https://linuxize.com/post/dig-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/dig-command-in-linux/"
     },
     {
       "Command": "wget",
-      "Usage Example": "wget URL",
-      "Short Description": "Download",
-      "Full Description": "Downloads files",
+      "Usage_Example": "wget URL",
+      "Short_Description": "Download",
+      "Full_Description": "Downloads files",
       "Category": "Networking",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/wget-command-examples/"
+      "Resource_Link": "https://linuxize.com/post/wget-command-examples/"
     },
     {
       "Command": "curl",
-      "Usage Example": "curl URL",
-      "Short Description": "Retrieve web data",
-      "Full Description": "Transfers data with URLs",
+      "Usage_Example": "curl URL",
+      "Short_Description": "Retrieve web data",
+      "Full_Description": "Transfers data with URLs",
       "Category": "Networking",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/curl-command-examples/"
+      "Resource_Link": "https://linuxize.com/post/curl-command-examples/"
     },
     {
       "Command": "ssh",
-      "Usage Example": "ssh user@host",
-      "Short Description": "Remote SSH login",
-      "Full Description": "Secure shell to remote computer",
+      "Usage_Example": "ssh user@host",
+      "Short_Description": "Remote SSH login",
+      "Full_Description": "Secure shell to remote computer",
       "Category": "Networking",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/how-to-use-ssh-to-connect-to-a-remote-server-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/how-to-use-ssh-to-connect-to-a-remote-server-in-linux/"
     },
     {
       "Command": "scp",
-      "Usage Example": "scp file user@host:/dest",
-      "Short Description": "Remote file transfer",
-      "Full Description": "Copies files over SSH",
+      "Usage_Example": "scp file user@host:/dest",
+      "Short_Description": "Remote file transfer",
+      "Full_Description": "Copies files over SSH",
       "Category": "Networking",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/scp-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/scp-command-in-linux/"
     },
     {
       "Command": "rsync",
-      "Usage Example": "rsync src dst",
-      "Short Description": "Efficient sync",
-      "Full Description": "Syncs/copies files",
+      "Usage_Example": "rsync src dst",
+      "Short_Description": "Efficient sync",
+      "Full_Description": "Syncs/copies files",
       "Category": "Networking",
       "Level": "Pro",
-      "Resource Link": "https://linuxize.com/post/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization/"
+      "Resource_Link": "https://linuxize.com/post/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization/"
     },
     {
       "Command": "ftp",
-      "Usage Example": "ftp host",
-      "Short Description": "File transfer",
-      "Full Description": "Traditional file transfer",
+      "Usage_Example": "ftp host",
+      "Short_Description": "File transfer",
+      "Full_Description": "Traditional file transfer",
       "Category": "Networking",
       "Level": "Pro",
-      "Resource Link": "https://www.geeksforgeeks.org/ftp-command-in-linux-with-examples/"
+      "Resource_Link": "https://www.geeksforgeeks.org/ftp-command-in-linux-with-examples/"
     },
     {
       "Command": "sftp",
-      "Usage Example": "sftp user@host",
-      "Short Description": "Secure file transfer",
-      "Full Description": "File transfer over SSH",
+      "Usage_Example": "sftp user@host",
+      "Short_Description": "Secure file transfer",
+      "Full_Description": "File transfer over SSH",
       "Category": "Networking",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/how-to-use-sftp-to-securely-transfer-files/"
+      "Resource_Link": "https://linuxize.com/post/how-to-use-sftp-to-securely-transfer-files/"
     },
     {
       "Command": "ifup",
-      "Usage Example": "ifup eth0",
-      "Short Description": "Interface up",
-      "Full Description": "Activates interface",
+      "Usage_Example": "ifup eth0",
+      "Short_Description": "Interface up",
+      "Full_Description": "Activates interface",
       "Category": "Networking",
       "Level": "Pro",
-      "Resource Link": "https://www.geeksforgeeks.org/ifup-command-in-linux-with-examples/"
+      "Resource_Link": "https://www.geeksforgeeks.org/ifup-command-in-linux-with-examples/"
     },
     {
       "Command": "ifdown",
-      "Usage Example": "ifdown eth0",
-      "Short Description": "Interface down",
-      "Full Description": "Deactivates interface",
+      "Usage_Example": "ifdown eth0",
+      "Short_Description": "Interface down",
+      "Full_Description": "Deactivates interface",
       "Category": "Networking",
       "Level": "Pro",
-      "Resource Link": "https://www.geeksforgeeks.org/ifdown-command-in-linux-with-examples/"
+      "Resource_Link": "https://www.geeksforgeeks.org/ifdown-command-in-linux-with-examples/"
     },
     {
       "Command": "iptables",
-      "Usage Example": "iptables -L",
-      "Short Description": "Firewall config",
-      "Full Description": "Configures firewall rules",
+      "Usage_Example": "iptables -L",
+      "Short_Description": "Firewall config",
+      "Full_Description": "Configures firewall rules",
       "Category": "Networking",
       "Level": "Pro",
-      "Resource Link": "https://www.geeksforgeeks.org/iptables-essentials-common-firewall-rules-and-commands/"
+      "Resource_Link": "https://www.geeksforgeeks.org/iptables-essentials-common-firewall-rules-and-commands/"
     },
     {
       "Command": "ufw",
-      "Usage Example": "ufw allow 80",
-      "Short Description": "Easy firewall config",
-      "Full Description": "Simple firewall for Ubuntu",
+      "Usage_Example": "ufw allow 80",
+      "Short_Description": "Easy firewall config",
+      "Full_Description": "Simple firewall for Ubuntu",
       "Category": "Networking",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/ufw-uncomplicated-firewall/"
+      "Resource_Link": "https://linuxize.com/post/ufw-uncomplicated-firewall/"
     },
     {
       "Command": "adduser",
-      "Usage Example": "adduser john",
-      "Short Description": "Add new user",
-      "Full Description": "Creates a new user",
+      "Usage_Example": "adduser john",
+      "Short_Description": "Add new user",
+      "Full_Description": "Creates a new user",
       "Category": "User & Group Management",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/how-to-add-users-to-linux/"
+      "Resource_Link": "https://linuxize.com/post/how-to-add-users-to-linux/"
     },
     {
       "Command": "useradd",
-      "Usage Example": "useradd john",
-      "Short Description": "Add new user",
-      "Full Description": "Creates a new user (lower-level)",
+      "Usage_Example": "useradd john",
+      "Short_Description": "Add new user",
+      "Full_Description": "Creates a new user (lower-level)",
       "Category": "User & Group Management",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/useradd-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/useradd-command-in-linux/"
     },
     {
       "Command": "deluser",
-      "Usage Example": "deluser john",
-      "Short Description": "Remove user",
-      "Full Description": "Deletes a user",
+      "Usage_Example": "deluser john",
+      "Short_Description": "Remove user",
+      "Full_Description": "Deletes a user",
       "Category": "User & Group Management",
       "Level": "Intermediate",
-      "Resource Link": "https://www.geeksforgeeks.org/deluser-command-in-linux-with-examples/"
+      "Resource_Link": "https://www.geeksforgeeks.org/deluser-command-in-linux-with-examples/"
     },
     {
       "Command": "userdel",
-      "Usage Example": "userdel john",
-      "Short Description": "Remove user",
-      "Full Description": "Deletes user (lower-level)",
+      "Usage_Example": "userdel john",
+      "Short_Description": "Remove user",
+      "Full_Description": "Deletes user (lower-level)",
       "Category": "User & Group Management",
       "Level": "Intermediate",
-      "Resource Link": "https://www.geeksforgeeks.org/userdel-command-in-linux-with-examples/"
+      "Resource_Link": "https://www.geeksforgeeks.org/userdel-command-in-linux-with-examples/"
     },
     {
       "Command": "passwd",
-      "Usage Example": "passwd username",
-      "Short Description": "Change password",
-      "Full Description": "Changes user password",
+      "Usage_Example": "passwd username",
+      "Short_Description": "Change password",
+      "Full_Description": "Changes user password",
       "Category": "User & Group Management",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/passwd-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/passwd-command-in-linux/"
     },
     {
       "Command": "usermod",
-      "Usage Example": "usermod -aG sudo john",
-      "Short Description": "Modify user",
-      "Full Description": "Modifies user settings",
+      "Usage_Example": "usermod -aG sudo john",
+      "Short_Description": "Modify user",
+      "Full_Description": "Modifies user settings",
       "Category": "User & Group Management",
       "Level": "Pro",
-      "Resource Link": "https://linuxize.com/post/usermod-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/usermod-command-in-linux/"
     },
     {
       "Command": "chage",
-      "Usage Example": "chage -l john",
-      "Short Description": "Change password expiry",
-      "Full Description": "Manage password aging",
+      "Usage_Example": "chage -l john",
+      "Short_Description": "Change password expiry",
+      "Full_Description": "Manage password aging",
       "Category": "User & Group Management",
       "Level": "Pro",
-      "Resource Link": "https://www.geeksforgeeks.org/chage-command-in-linux-with-examples/"
+      "Resource_Link": "https://www.geeksforgeeks.org/chage-command-in-linux-with-examples/"
     },
     {
       "Command": "groups",
-      "Usage Example": "groups john",
-      "Short Description": "Show groups",
-      "Full Description": "Shows user\u2019s groups",
+      "Usage_Example": "groups john",
+      "Short_Description": "Show groups",
+      "Full_Description": "Shows user\u2019s groups",
       "Category": "User & Group Management",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/groups-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/groups-command-in-linux/"
     },
     {
       "Command": "newgrp",
-      "Usage Example": "newgrp group",
-      "Short Description": "Switch shell group",
-      "Full Description": "Changes current shell\u2019s group",
+      "Usage_Example": "newgrp group",
+      "Short_Description": "Switch shell group",
+      "Full_Description": "Changes current shell\u2019s group",
       "Category": "User & Group Management",
       "Level": "Pro",
-      "Resource Link": "https://www.geeksforgeeks.org/newgrp-command-in-linux-with-examples/"
+      "Resource_Link": "https://www.geeksforgeeks.org/newgrp-command-in-linux-with-examples/"
     },
     {
       "Command": "apt",
-      "Usage Example": "apt install nginx",
-      "Short Description": "Debian package mgmt",
-      "Full Description": "Manages apt packages (Debian)",
+      "Usage_Example": "apt install nginx",
+      "Short_Description": "Debian package mgmt",
+      "Full_Description": "Manages apt packages (Debian)",
       "Category": "Package Management",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/how-to-install-and-manage-packages-in-ubuntu/"
+      "Resource_Link": "https://linuxize.com/post/how-to-install-and-manage-packages-in-ubuntu/"
     },
     {
       "Command": "yum",
-      "Usage Example": "yum install nginx",
-      "Short Description": "RPM package mgmt",
-      "Full Description": "Manages yum packages (RedHat)",
+      "Usage_Example": "yum install nginx",
+      "Short_Description": "RPM package mgmt",
+      "Full_Description": "Manages yum packages (RedHat)",
       "Category": "Package Management",
       "Level": "Intermediate",
-      "Resource Link": "https://www.digitalocean.com/community/tutorials/how-to-use-yum-to-install-packages"
+      "Resource_Link": "https://www.digitalocean.com/community/tutorials/how-to-use-yum-to-install-packages"
     },
     {
       "Command": "pacman",
-      "Usage Example": "pacman -S nginx",
-      "Short Description": "Arch package mgmt",
-      "Full Description": "Arch/Manjaro etc. package manager",
+      "Usage_Example": "pacman -S nginx",
+      "Short_Description": "Arch package mgmt",
+      "Full_Description": "Arch/Manjaro etc. package manager",
       "Category": "Package Management",
       "Level": "Intermediate",
-      "Resource Link": "https://wiki.archlinux.org/title/pacman"
+      "Resource_Link": "https://wiki.archlinux.org/title/pacman"
     },
     {
       "Command": "dpkg",
-      "Usage Example": "dpkg -i package.deb",
-      "Short Description": "Install .deb file",
-      "Full Description": "Low-level Debian install",
+      "Usage_Example": "dpkg -i package.deb",
+      "Short_Description": "Install .deb file",
+      "Full_Description": "Low-level Debian install",
       "Category": "Package Management",
       "Level": "Pro",
-      "Resource Link": "https://linuxize.com/post/how-to-install-deb-files-in-ubuntu/"
+      "Resource_Link": "https://linuxize.com/post/how-to-install-deb-files-in-ubuntu/"
     },
     {
       "Command": "rpm",
-      "Usage Example": "rpm -i package.rpm",
-      "Short Description": "Install .rpm file",
-      "Full Description": "Low-level Red Hat install",
+      "Usage_Example": "rpm -i package.rpm",
+      "Short_Description": "Install .rpm file",
+      "Full_Description": "Low-level Red Hat install",
       "Category": "Package Management",
       "Level": "Pro",
-      "Resource Link": "https://linuxize.com/post/how-to-install-an-rpm-file-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/how-to-install-an-rpm-file-in-linux/"
     },
     {
       "Command": "systemctl",
-      "Usage Example": "systemctl status nginx",
-      "Short Description": "Manage systemd svcs",
-      "Full Description": "Systemd service mgmt",
+      "Usage_Example": "systemctl status nginx",
+      "Short_Description": "Manage systemd svcs",
+      "Full_Description": "Systemd service mgmt",
       "Category": "System Services & Boot",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/systemctl-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/systemctl-command-in-linux/"
     },
     {
       "Command": "service",
-      "Usage Example": "service nginx restart",
-      "Short Description": "Manage sysv svcs",
-      "Full Description": "Legacy service mgmt",
+      "Usage_Example": "service nginx restart",
+      "Short_Description": "Manage sysv svcs",
+      "Full_Description": "Legacy service mgmt",
       "Category": "System Services & Boot",
       "Level": "Intermediate",
-      "Resource Link": "https://www.tecmint.com/linux-service-command/"
+      "Resource_Link": "https://www.tecmint.com/linux-service-command/"
     },
     {
       "Command": "reboot",
-      "Usage Example": "reboot",
-      "Short Description": "Reboot system",
-      "Full Description": "Restarts the computer",
+      "Usage_Example": "reboot",
+      "Short_Description": "Reboot system",
+      "Full_Description": "Restarts the computer",
       "Category": "System Services & Boot",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/linux-reboot-command/"
+      "Resource_Link": "https://linuxize.com/post/linux-reboot-command/"
     },
     {
       "Command": "shutdown",
-      "Usage Example": "shutdown now",
-      "Short Description": "Shutdown system",
-      "Full Description": "Shuts down the computer",
+      "Usage_Example": "shutdown now",
+      "Short_Description": "Shutdown system",
+      "Full_Description": "Shuts down the computer",
       "Category": "System Services & Boot",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/shutdown-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/shutdown-command-in-linux/"
     },
     {
       "Command": "cal",
-      "Usage Example": "cal",
-      "Short Description": "Calendar",
-      "Full Description": "Shows calendar for month/year",
+      "Usage_Example": "cal",
+      "Short_Description": "Calendar",
+      "Full_Description": "Shows calendar for month/year",
       "Category": "Miscellaneous",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/cal-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/cal-command-in-linux/"
     },
     {
       "Command": "date",
-      "Usage Example": "date",
-      "Short Description": "Show/set date/time",
-      "Full Description": "Shows or sets date/time",
+      "Usage_Example": "date",
+      "Short_Description": "Show/set date/time",
+      "Full_Description": "Shows or sets date/time",
       "Category": "Miscellaneous",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/date-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/date-command-in-linux/"
     },
     {
       "Command": "alias",
-      "Usage Example": "alias ll='ls -l'",
-      "Short Description": "Shortcut commands",
-      "Full Description": "Creates shell command aliases",
+      "Usage_Example": "alias ll='ls -l'",
+      "Short_Description": "Shortcut commands",
+      "Full_Description": "Creates shell command aliases",
       "Category": "Miscellaneous",
       "Level": "Beginner",
-      "Resource Link": "https://www.geeksforgeeks.org/alias-command-in-linux-with-examples/"
+      "Resource_Link": "https://www.geeksforgeeks.org/alias-command-in-linux-with-examples/"
     },
     {
       "Command": "unalias",
-      "Usage Example": "unalias ll",
-      "Short Description": "Remove an alias",
-      "Full Description": "Deletes a shell alias",
+      "Usage_Example": "unalias ll",
+      "Short_Description": "Remove an alias",
+      "Full_Description": "Deletes a shell alias",
       "Category": "Miscellaneous",
       "Level": "Beginner",
-      "Resource Link": "https://www.geeksforgeeks.org/unalias-command-linux/"
+      "Resource_Link": "https://www.geeksforgeeks.org/unalias-command-linux/"
     },
     {
       "Command": "clear",
-      "Usage Example": "clear",
-      "Short Description": "Clear terminal",
-      "Full Description": "Clears terminal display",
+      "Usage_Example": "clear",
+      "Short_Description": "Clear terminal",
+      "Full_Description": "Clears terminal display",
       "Category": "Miscellaneous",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/clear-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/clear-command-in-linux/"
     },
     {
       "Command": "man",
-      "Usage Example": "man ls",
-      "Short Description": "Manual/help files",
-      "Full Description": "Command documentation",
+      "Usage_Example": "man ls",
+      "Short_Description": "Manual/help files",
+      "Full_Description": "Command documentation",
       "Category": "Miscellaneous",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/linux-man-command/"
+      "Resource_Link": "https://linuxize.com/post/linux-man-command/"
     },
     {
       "Command": "whatis",
-      "Usage Example": "whatis ls",
-      "Short Description": "Short desc command",
-      "Full Description": "One-line command summary",
+      "Usage_Example": "whatis ls",
+      "Short_Description": "Short desc command",
+      "Full_Description": "One-line command summary",
       "Category": "Miscellaneous",
       "Level": "Beginner",
-      "Resource Link": "https://www.geeksforgeeks.org/whatis-command-in-unix-linux-with-examples/"
+      "Resource_Link": "https://www.geeksforgeeks.org/whatis-command-in-unix-linux-with-examples/"
     },
     {
       "Command": "whereis",
-      "Usage Example": "whereis ls",
-      "Short Description": "Command location",
-      "Full Description": "Shows binary and man page location",
+      "Usage_Example": "whereis ls",
+      "Short_Description": "Command location",
+      "Full_Description": "Shows binary and man page location",
       "Category": "Miscellaneous",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/whereis-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/whereis-command-in-linux/"
     },
     {
       "Command": "which",
-      "Usage Example": "which ls",
-      "Short Description": "Executable in PATH",
-      "Full Description": "Shows executable location",
+      "Usage_Example": "which ls",
+      "Short_Description": "Executable in PATH",
+      "Full_Description": "Shows executable location",
       "Category": "Miscellaneous",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/which-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/which-command-in-linux/"
     },
     {
       "Command": "time",
-      "Usage Example": "time ls",
-      "Short Description": "Time command",
-      "Full Description": "Times program execution",
+      "Usage_Example": "time ls",
+      "Short_Description": "Time command",
+      "Full_Description": "Times program execution",
       "Category": "Miscellaneous",
       "Level": "Intermediate",
-      "Resource Link": "https://www.geeksforgeeks.org/time-command-in-linux-with-examples/"
+      "Resource_Link": "https://www.geeksforgeeks.org/time-command-in-linux-with-examples/"
     },
     {
       "Command": "sleep",
-      "Usage Example": "sleep 5",
-      "Short Description": "Wait/delay",
-      "Full Description": "Pauses for n seconds",
+      "Usage_Example": "sleep 5",
+      "Short_Description": "Wait/delay",
+      "Full_Description": "Pauses for n seconds",
       "Category": "Miscellaneous",
       "Level": "Beginner",
-      "Resource Link": "https://linuxize.com/post/sleep-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/sleep-command-in-linux/"
     },
     {
       "Command": "watch",
-      "Usage Example": "watch -n 2 date",
-      "Short Description": "Run/repeat command",
-      "Full Description": "Periodically runs commands",
+      "Usage_Example": "watch -n 2 date",
+      "Short_Description": "Run/repeat command",
+      "Full_Description": "Periodically runs commands",
       "Category": "Miscellaneous",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/watch-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/watch-command-in-linux/"
     },
     {
       "Command": "gcc",
-      "Usage Example": "gcc main.c",
-      "Short Description": "Compile code",
-      "Full Description": "Compiles C programs",
+      "Usage_Example": "gcc main.c",
+      "Short_Description": "Compile code",
+      "Full_Description": "Compiles C programs",
       "Category": "Developer & Specialized",
       "Level": "Pro",
-      "Resource Link": "https://linuxize.com/post/gcc-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/gcc-command-in-linux/"
     },
     {
       "Command": "g++",
-      "Usage Example": "g++ main.cpp",
-      "Short Description": "Compile C++ code",
-      "Full Description": "Compiles C++ programs",
+      "Usage_Example": "g++ main.cpp",
+      "Short_Description": "Compile C++ code",
+      "Full_Description": "Compiles C++ programs",
       "Category": "Developer & Specialized",
       "Level": "Pro",
-      "Resource Link": "https://linuxize.com/post/gcc-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/gcc-command-in-linux/"
     },
     {
       "Command": "git",
-      "Usage Example": "git status",
-      "Short Description": "Version control",
-      "Full Description": "Distributed source control",
+      "Usage_Example": "git status",
+      "Short_Description": "Version control",
+      "Full_Description": "Distributed source control",
       "Category": "Developer & Specialized",
       "Level": "Intermediate",
-      "Resource Link": "https://git-scm.com/book/en/v2/Getting-Started-Git-Basics"
+      "Resource_Link": "https://git-scm.com/book/en/v2/Getting-Started-Git-Basics"
     },
     {
       "Command": "make",
-      "Usage Example": "make",
-      "Short Description": "Build automation",
-      "Full Description": "Builds/tests/packages projects",
+      "Usage_Example": "make",
+      "Short_Description": "Build automation",
+      "Full_Description": "Builds/tests/packages projects",
       "Category": "Developer & Specialized",
       "Level": "Intermediate",
-      "Resource Link": "https://linuxize.com/post/using-make-and-makefile-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/using-make-and-makefile-in-linux/"
     },
     {
       "Command": "strace",
-      "Usage Example": "strace -p 12345",
-      "Short Description": "Trace system calls",
-      "Full Description": "Traces program\u2019s syscalls",
+      "Usage_Example": "strace -p 12345",
+      "Short_Description": "Trace system calls",
+      "Full_Description": "Traces program\u2019s syscalls",
       "Category": "Developer & Specialized",
       "Level": "Pro",
-      "Resource Link": "https://linuxize.com/post/strace-command-in-linux/"
+      "Resource_Link": "https://linuxize.com/post/strace-command-in-linux/"
     }
   ]
 }
